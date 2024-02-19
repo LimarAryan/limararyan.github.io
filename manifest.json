@@ -1,0 +1,16 @@
+{
+ "name": "App",
+ "icons": [
+  {
+   "src": "/icons8-home-color-192.png",
+   "sizes": "192×192",
+   "type": "image/png",
+   "density": "4.0"
+  },
+  {
+   "src": "/icons8-home-color-512.png",
+   "sizes": "512×512",
+   "type": "image/png"
+  }
+ ]
+}
